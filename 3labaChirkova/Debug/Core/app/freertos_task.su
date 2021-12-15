@@ -1,0 +1,3 @@
+freertos_task.c:14:6:var10_task	32	static
+freertos_task.c:29:6:var10_task2	24	static
+freertos_task.c:46:6:var10_task_create	24	static
